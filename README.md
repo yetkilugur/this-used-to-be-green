@@ -38,9 +38,15 @@ company servers, not on a green calendar.
 | Senior Backend Developer & E-commerce Systems Architect | **lofux** | Oct 2024 – Present |
 | E-commerce Systems Architect (Project-Based, Remote) | **Evrim Ağacı** | Feb 2025 – Sep 2025 |
 | Engineering Manager | **Jengal Software** | Sep 2022 – Aug 2024 |
-| E-Commerce Manager · Software Development Lead | **Otoparçasan.com** | Dec 2019 – Aug 2022 |
+| E-Commerce Manager | **Otoparçasan.com** | May 2021 – Aug 2022 |
+| Software Development Lead (Founding Phase) | **Otoparçasan.com** | Dec 2019 – May 2021 |
 | Founder & Technical Project Lead | **KODAKIL Software Agency** | Nov 2017 – Dec 2019 |
-| Software Developer / PHP Developer | Giyiver, Special Minds, Tozlu.com, OMÜ | 2012 – 2018 |
+| E-commerce Consultant (Freelance) | **Ebask.com** | Apr 2018 – Jan 2019 |
+| Software Developer | **Giyiver.com** | Sep 2017 – Mar 2018 |
+| PHP Developer | **Special Minds 7/24** | Jun 2017 – Sep 2017 |
+| Software Developer | **Tozlu.com** | Nov 2015 – May 2017 |
+| Web Developer (Contract) | **Ondokuz Mayıs Üniversitesi** | Apr 2014 – May 2015 |
+| Frontend Web Developer (Internship) | **TeknoBazaar** | May 2012 – Apr 2013 |
 
 ### Tech & skills
 
@@ -56,10 +62,8 @@ company servers, not on a green calendar.
 
 ## Let's talk
 
-Currently open to **Senior Backend** and **Technical Lead** roles (on-site · hybrid · remote).
-
 - 💼 LinkedIn: [linkedin.com/in/yetkilugur](https://www.linkedin.com/in/yetkilugur/) — *full CV & details*
-- 🌐 Web: [yetkil.com](https://yetkil.com) · [nuugg.com](https://nuugg.com)
+- 🌐 Web: [yetkil.com](https://yetkil.com)
 - 🐦 X: [@yetkilugur](https://x.com/yetkilugur)
 - ✉️ yetkilugur@gmail.com
 
