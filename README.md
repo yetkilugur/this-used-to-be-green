@@ -62,9 +62,10 @@ company servers, not on a green calendar.
 
 ## Let's talk
 
+Best reached on **LinkedIn** 👇
+
 - 💼 LinkedIn: [linkedin.com/in/yetkilugur](https://www.linkedin.com/in/yetkilugur/) — *full CV & details*
 - 🌐 Web: [yetkil.com](https://yetkil.com)
 - 🐦 X: [@yetkilugur](https://x.com/yetkilugur)
-- ✉️ yetkilugur@gmail.com
 
 <sub>No commits were harmed in the making of this repo. Just backdated a little.</sub>
